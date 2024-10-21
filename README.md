@@ -1,3 +1,3 @@
 # EvalúaMe
 proyecto 
-![UML](image.png)
+![UML](logo.png)
